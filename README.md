@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things  
 - 🌱 I’m currently learning frontend develoment
 - 💞️ I’m looking to collaborate on a company for learning new things
-- 📫 How to reach me ?
+- 📫 How to reach you ?
 
 <!---
 Rajkeshari90/Rajkeshari90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
